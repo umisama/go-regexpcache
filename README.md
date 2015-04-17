@@ -1,4 +1,4 @@
-# umisama/go-regexpcache [![Build Status](https://travis-ci.org/umisama/go-cvss.svg?branch=master)](https://travis-ci.org/umisama/go-cvss)
+# umisama/go-regexpcache [![Build Status](https://travis-ci.org/umisama/go-regexpcache.svg)](https://travis-ci.org/umisama/go-regexpcache)
 
 ## what's this?
 This is a cachable regexp package.  If expression is used two times or more, this returns cached regexp.Regexp object in very less time.
