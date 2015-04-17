@@ -1,7 +1,7 @@
 # umisama/go-regexpcache [![Build Status](https://travis-ci.org/umisama/go-regexpcache.svg)](https://travis-ci.org/umisama/go-regexpcache)
 
 ## what's this?
-This is a cachable regexp package.  If expression is used two times or more, this returns cached regexp.Regexp object in very less time.
+This is a cacheable regexp package.  If expression is used two times or more, this returns cached regexp.Regexp object in very less time.
 go-regexpcache has compatible interface with official regexp package.
 
 Here is simple usage:
